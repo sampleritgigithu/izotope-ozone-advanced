@@ -1,0 +1,11 @@
+*.jpg binary  
+
+public/* linguist-vendored
+
+go.sum linguist-generated
+src/**/*.tsx linguist-detectable 
+*.htm linguist-vendored
+*.bat text eol=crlf   
+*.png binary
+*.ico binary
+src/*.ts linguist-detectable
