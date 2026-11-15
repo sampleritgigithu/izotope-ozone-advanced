@@ -1,0 +1,8 @@
+*.log
+.next/
+coverage/
+.DS_Store
+.cache/
+build/
+.env.local
+.pnpm-store/
